@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Fashion-Studio/static/css/main.aa1990fe.css",
+    "main.js": "/Fashion-Studio/static/js/main.3e5e3fe1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Fashion-Studio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/designer2.jpg": "/Fashion-Studio/static/media/designer2.fb6e7bfb25766e9ceccd.jpg",
+    "static/media/designer3.jpg": "/Fashion-Studio/static/media/designer3.fec205bdaa95212455fa.jpg",
+    "static/media/desinger1.jpg": "/Fashion-Studio/static/media/desinger1.0cdfaef70cdfe17b798c.jpg",
+    "static/media/c11.jpg": "/Fashion-Studio/static/media/c11.5711f70af88724c71a5d.jpg",
+    "static/media/carouselImg3.jpg": "/Fashion-Studio/static/media/carouselImg3.82ffe374a6f67a9a2b38.jpg",
+    "static/media/carouselImg2.jpg": "/Fashion-Studio/static/media/carouselImg2.7dd5b243d9b93f38e58d.jpg",
+    "static/media/c3.jpg": "/Fashion-Studio/static/media/c3.3d6fbde1f0df1498e124.jpg",
+    "static/media/c8.jpg": "/Fashion-Studio/static/media/c8.14bb7221a9d115c49b10.jpg",
+    "static/media/c5.jpg": "/Fashion-Studio/static/media/c5.608d376100bdbb27466c.jpg",
+    "static/media/c9.jpg": "/Fashion-Studio/static/media/c9.6326bb75ed23235b318c.jpg",
+    "static/media/c2.jpg": "/Fashion-Studio/static/media/c2.f5346f6bdaf1d086b82e.jpg",
+    "static/media/c1.jpg": "/Fashion-Studio/static/media/c1.1637d7872cd5a4c76128.jpg",
+    "static/media/c4.jpg": "/Fashion-Studio/static/media/c4.891d2b9ea6346111fd56.jpg",
+    "static/media/c13.jpg": "/Fashion-Studio/static/media/c13.35a08ea700ff3b54625a.jpg",
+    "static/media/c10.jpg": "/Fashion-Studio/static/media/c10.8b41b4d4f2a179b71c1f.jpg",
+    "static/media/c12.jpg": "/Fashion-Studio/static/media/c12.c893f8f3a85bb2d75cdc.jpg",
+    "static/media/carouselImg4.jpg": "/Fashion-Studio/static/media/carouselImg4.3fc0a56a75f6c9cc630f.jpg",
+    "static/media/c7.jpg": "/Fashion-Studio/static/media/c7.0fcad593dc821d6d0fe7.jpg",
+    "static/media/c6.jpg": "/Fashion-Studio/static/media/c6.39d141d8d90cb00b165a.jpg",
+    "index.html": "/Fashion-Studio/index.html",
+    "main.aa1990fe.css.map": "/Fashion-Studio/static/css/main.aa1990fe.css.map",
+    "main.3e5e3fe1.js.map": "/Fashion-Studio/static/js/main.3e5e3fe1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Fashion-Studio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa1990fe.css",
+    "static/js/main.3e5e3fe1.js"
+  ]
+}
