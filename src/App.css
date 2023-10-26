@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+  box-sizing: border-box;
+}
+.navlink-wrap {
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navlink-wrap:hover{
+  color: rgba(230, 230, 230, 0.808);
+}
