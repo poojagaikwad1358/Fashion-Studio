@@ -1,11 +1,10 @@
 import './App.css';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Wrapper from './Components/Wrapper';
 import ContactUs from './Components/ContactUs';
 import Collections from './Components/Collections'
 import AboutUs from './Components/AboutUs';
 import Login from './Components/Login'
-import Navbar from './Components/Navbar';
 function App() {
   return (
     <div>             
